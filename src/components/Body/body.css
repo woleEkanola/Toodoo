@@ -1,0 +1,14 @@
+h3{
+
+  color: red;
+}
+
+li{
+  color: green;
+
+}
+
+li.completed{
+  color: red;
+  text-decoration: line-through;
+}
